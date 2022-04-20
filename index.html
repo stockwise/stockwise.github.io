@@ -46,10 +46,10 @@
 
 <body>
     <section>
-        <h1>Data Set 0</h1>
+        <h1>Data Sets</h1>
 
         <!-- TABLE CONSTRUCTION-->
-        <table id='data-set-0'>
+        <table id='data-sets'>
           <tr>
             <th>HTTP Header</th>
             <th>Value</th>
@@ -64,28 +64,10 @@
                   record += "<tr><td>host</td><td>" + data.headers["host"] + "</td></tr>"
                   record += "<tr><td>x-request-id</td><td>" + data.headers["x-request-id"] + "</td></tr>"
                   record += "<tr><td>x-request-start</td><td>" + data.headers["x-request-start"] + "</td></tr>"
-                  $("#data-set-0").append(record)
+                  $("#data-sets").append(record)
                 }
               );
-            });
-          </script>
 
-    </section>
-
-    <hr>
-
-    <section>
-        <h1>Data Set 1</h1>
-
-        <!-- TABLE CONSTRUCTION-->
-        <table id='data-set-1'>
-          <tr>
-            <th>HTTP Header</th>
-            <th>Value</th>
-          </tr>
-
-          <script>
-            $(document).ready(function () {
               $.getJSON("data-set-1.json",
                 function(data) {
                   var record = "";
@@ -93,12 +75,13 @@
                   record += "<tr><td>host</td><td>" + data.headers["host"] + "</td></tr>"
                   record += "<tr><td>x-request-id</td><td>" + data.headers["x-request-id"] + "</td></tr>"
                   record += "<tr><td>x-request-start</td><td>" + data.headers["x-request-start"] + "</td></tr>"
-                  $("#data-set-1").append(record)
+                  $("#data-sets").append(record)
                 }
               );
             });
           </script>
 
+      </table>
     </section>
 
 </body>
