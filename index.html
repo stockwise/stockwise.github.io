@@ -1,0 +1,76 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>A Demo Site</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+    <!-- https://www.geeksforgeeks.org/how-to-fetch-data-from-json-file-and-display-in-html-table-using-jquery/ -->
+    <!-- CSS FOR STYLING THE PAGE -->
+    <style>
+        table {
+            margin: 0 auto;
+            font-size: large;
+            border: 1px solid black;
+        }
+
+        h1 {
+            text-align: center;
+            color: #006600;
+            font-size: xx-large;
+            font-family: 'Gill Sans',
+                'Gill Sans MT', ' Calibri',
+                'Trebuchet MS', 'sans-serif';
+        }
+
+        td {
+            background-color: #E4F5D4;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            font-weight: bold;
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+
+        td {
+            font-weight: lighter;
+        }
+    </style>
+</head>
+
+<body>
+    <section>
+        <h1>Data Set 0</h1>
+
+        <!-- TABLE CONSTRUCTION-->
+        <table id='data-set-0'>
+          <tr>
+            <th>HTTP Header</th>
+            <th>Value</th>
+          </tr>
+
+          <script>
+            $(document).ready(function () {
+              $.getJSON("data-set-0.json",
+                function(data) {
+                  var record = "";
+                  record += "<tr>";
+                  record += "<td>host</td><td>" + data["host"] + "</td>"
+                  record += "<td>x-request-id</td><td>" + data["x-request-id"] + "</td>"
+                  record += "<td>x-request-start</td><td>" + data["x-request-start"] + "</td>"
+                  record += "</tr>";
+                  $("#data-set-0").append(record)
+                }
+              );
+            });
+          </script>
+
+    </section>
+</body>
+</html>
