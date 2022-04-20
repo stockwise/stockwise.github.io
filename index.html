@@ -60,11 +60,9 @@
               $.getJSON("data-set-0.json",
                 function(data) {
                   var record = "";
-                  record += "<tr>";
-                  record += "<td>host</td><td>" + data["host"] + "</td>"
-                  record += "<td>x-request-id</td><td>" + data["x-request-id"] + "</td>"
-                  record += "<td>x-request-start</td><td>" + data["x-request-start"] + "</td>"
-                  record += "</tr>";
+                  record += "<tr><td>host</td><td>" + data.headers["host"] + "</td></tr>"
+                  record += "<tr><td>x-request-id</td><td>" + data.headers["x-request-id"] + "</td></tr>"
+                  record += "<tr><td>x-request-start</td><td>" + data.headers["x-request-start"] + "</td></tr>"
                   $("#data-set-0").append(record)
                 }
               );
