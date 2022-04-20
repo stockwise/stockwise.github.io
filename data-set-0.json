@@ -1,0 +1,35 @@
+{
+  "startedDateTime": "2022-04-20T20:35:51.273Z",
+  "clientIPAddress": "148.75.102.24",
+  "method": "GET",
+  "url": "https://mockbin.org/requests/10615",
+  "httpVersion": "HTTP/1.1",
+  "cookies": {},
+  "headers": {
+    "host": "mockbin.org",
+    "connection": "close",
+    "accept-encoding": "gzip",
+    "x-forwarded-for": "148.75.102.24, 172.70.114.251",
+    "cf-ray": "6ff0ab35186a8cd6-EWR",
+    "x-forwarded-proto": "http",
+    "cf-visitor": "{\"scheme\":\"https\"}",
+    "user-agent": "curl/7.79.1",
+    "accept": "*/*",
+    "cf-connecting-ip": "148.75.102.24",
+    "cdn-loop": "cloudflare",
+    "x-request-id": "3f22a848-018c-4983-bd74-8221175d5544",
+    "x-forwarded-port": "80",
+    "via": "1.1 vegur",
+    "connect-time": "0",
+    "x-request-start": "1650486951272",
+    "total-route-time": "0"
+  },
+  "queryString": {},
+  "postData": {
+    "mimeType": "application/octet-stream",
+    "text": "",
+    "params": []
+  },
+  "headersSize": 497,
+  "bodySize": 0
+}
