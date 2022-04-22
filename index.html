@@ -126,10 +126,10 @@
               $.getJSON("data-set-1.json",
                 function(data) {
                   var record = "";
-                  record += "<tr><td>data-set-1</td><td>url</td><td>" + data.url + "</td></tr>"
-                  record += "<tr><td>data-set-1</td><td>host</td><td>" + data.headers["host"] + "</td></tr>"
-                  record += "<tr><td>data-set-1</td><td>x-request-id</td><td>" + data.headers["x-request-id"] + "</td></tr>"
-                  record += "<tr><td>data-set-1</td><td>x-request-start</td><td>" + data.headers["x-request-start"] + "</td></tr>"
+                  record += "<tr><td>data-set-1</td><td>url</td><td>" + data.symbol + "</td></tr>"
+                  record += "<tr><td>data-set-1</td><td>host</td><td>" + data.exchangeName + "</td></tr>"
+                  record += "<tr><td>data-set-1</td><td>x-request-id</td><td>" + data.exchangeName + "</td></tr>"
+                  record += "<tr><td>data-set-1</td><td>x-request-start</td><td>" + data.exchangeName + "</td></tr>"
                   $("#stocks").append(record)
                 }
               );
