@@ -1,27 +1,27 @@
 {
-  "startedDateTime": "2022-04-23T11:17:59.997Z",
-  "clientIPAddress": "20.125.118.48",
+  "startedDateTime": "2022-04-23T11:29:46.197Z",
+  "clientIPAddress": "20.228.169.70",
   "method": "GET",
-  "url": "https://mockbin.com/requests/088c7cbe-c2f7-11ec-8cad-6045bda2a167",
+  "url": "https://mockbin.com/requests/ad8ec356-c2f8-11ec-a29a-000d3a52fbd0",
   "httpVersion": "HTTP/1.1",
   "cookies": {},
   "headers": {
     "host": "mockbin.com",
     "connection": "close",
     "accept-encoding": "gzip",
-    "x-forwarded-for": "20.125.118.48, 172.70.206.122",
-    "cf-ray": "700632294e087ec5-LAX",
+    "x-forwarded-for": "20.228.169.70, 172.70.135.42",
+    "cf-ray": "70064367a9dd8f22-IAD",
     "x-forwarded-proto": "http",
     "cf-visitor": "{\"scheme\":\"https\"}",
     "user-agent": "curl/7.68.0",
     "accept": "*/*",
-    "cf-connecting-ip": "20.125.118.48",
+    "cf-connecting-ip": "20.228.169.70",
     "cdn-loop": "cloudflare",
-    "x-request-id": "f7996199-a9bc-4157-8810-0b3bb848eb54",
+    "x-request-id": "e088c07d-2817-452e-9723-905558b9930e",
     "x-forwarded-port": "80",
     "via": "1.1 vegur",
     "connect-time": "0",
-    "x-request-start": "1650712679993",
+    "x-request-start": "1650713386196",
     "total-route-time": "0"
   },
   "queryString": {},
@@ -30,6 +30,6 @@
     "text": "",
     "params": []
   },
-  "headersSize": 528,
+  "headersSize": 527,
   "bodySize": 0
 }
