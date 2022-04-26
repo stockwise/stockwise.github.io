@@ -1,0 +1,148 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>A Demo Site</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+    <!-- https://www.geeksforgeeks.org/how-to-fetch-data-from-json-file-and-display-in-html-table-using-jquery/ -->
+    <!-- CSS FOR STYLING THE PAGE -->
+    <style>
+        table {
+            margin: 0 auto;
+            font-size: large;
+            border: 1px solid black;
+        }
+
+        h1 {
+            text-align: center;
+            color: #006600;
+            font-size: xx-large;
+            font-family: 'Gill Sans',
+                'Gill Sans MT', ' Calibri',
+                'Trebuchet MS', 'sans-serif';
+        }
+
+        td {
+            background-color: #E4F5D4;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            font-weight: bold;
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+
+        td {
+            font-weight: lighter;
+        }
+
+        div {
+            text-align: center;
+            font-family: 'Gill Sans',
+                'Gill Sans MT', ' Calibri',
+                'Trebuchet MS', 'sans-serif';
+        }
+    </style>
+</head>
+
+<body>
+    <section>
+        <h1>Data Sets</h1>
+        <div id="last-update"></div>
+
+        <script>
+          $(document).ready(function () {
+            $.getJSON("last-update.json",
+              function(data) {
+                $("#last-update").append("Last updated at: " + data.date)
+              }
+            );
+          });
+        </script>
+
+        <!-- TABLE CONSTRUCTION-->
+        <table id='data-sets'>
+          <tr>
+            <th>Data Set</th>
+            <th>HTTP Header</th>
+            <th>Value</th>
+          </tr>
+
+          <script>
+            $(document).ready(function () {
+              $.getJSON("data-set-0.json",
+                function(data) {
+                  var record = "";
+                  record += "<tr><td>data-set-0</td><td>url</td><td>" + data.url + "</td></tr>"
+                  record += "<tr><td>data-set-0</td><td>host</td><td>" + data.headers["host"] + "</td></tr>"
+                  record += "<tr><td>data-set-0</td><td>x-request-id</td><td>" + data.headers["x-request-id"] + "</td></tr>"
+                  record += "<tr><td>data-set-0</td><td>x-request-start</td><td>" + data.headers["x-request-start"] + "</td></tr>"
+                  $("#data-sets").append(record)
+                }
+              );
+
+              $.getJSON("data-set-1.json",
+                function(data) {
+                  var record = "";
+                  for (var i = 0; i < data.length; i++) {
+
+record += "<tr class="entry"><td>" + data[i].symbol + "</td><td>" + data[i].symbol + "</td><td>" + data[i].exchangeName + "</td></tr>"
+                    }
+//                  record += "<tr><td>data-set-1</td><td>url</td><td>" + data.url + "</td></tr>"
+//                  record += "<tr><td>data-set-1</td><td>host</td><td>" + data.headers["host"] + "</td></tr>"
+//                  record += "<tr><td>data-set-1</td><td>x-request-id</td><td>" + data.headers["x-request-id"] + "</td></tr>"
+//                  record += "<tr><td>data-set-1</td><td>x-request-start</td><td>" + data.headers["x-request-start"] + "</td></tr>"
+                  $("#data-sets").append(record)
+                }
+              );
+            });
+          </script>
+
+      </table>
+        <br><br>
+        <!-- STOCK TABLE -->
+      <table id='stocks'>
+          <tr>
+            <th>Symbol</th>
+            <th>HTTP Header</th>
+            <th>Value</th>
+          </tr>
+
+          <script>
+            $(document).ready(function () {
+              $.getJSON("data-set-0.json",
+                function(data) {
+                  var record = "";
+                  record += "<tr><td>data-set-0</td><td>url</td><td>" + data.url + "</td></tr>"
+                  record += "<tr><td>data-set-0</td><td>host</td><td>" + data.headers["host"] + "</td></tr>"
+                  record += "<tr><td>data-set-0</td><td>x-request-id</td><td>" + data.headers["x-request-id"] + "</td></tr>"
+                  record += "<tr><td>data-set-0</td><td>x-request-start</td><td>" + data.headers["x-request-start"] + "</td></tr>"
+                  $("#stocks").append(record)
+                }
+              );
+
+              $.getJSON("data-set-1.json",
+                function(data) {
+                  var record = "";
+                  record += "<tr><td>data-set-1</td><td>url</td><td>" + data.symbol + "</td></tr>"
+                  record += "<tr><td>data-set-1</td><td>host</td><td>" + data.exchangeName + "</td></tr>"
+                  record += "<tr><td>data-set-1</td><td>x-request-id</td><td>" + data.exchangeName + "</td></tr>"
+                  record += "<tr><td>data-set-1</td><td>x-request-start</td><td>" + data.exchangeName + "</td></tr>"
+                  $("#stocks").append(record)
+                }
+              );
+            });
+          </script>
+
+      </table>
+        
+    </section>
+
+</body>
+</html>
