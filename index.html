@@ -85,18 +85,17 @@
                 function(data) {
                   var record = "";
                   for (var i = 0; i < data.length; i++) {
-
-record += "<tr class='entry'><td>" + data[i].symbol + "</td><td>" + data[i].symbol + "</td><td>" + data[i].exchangeName + "</td></tr>"
-                    }
+                     record += "<tr class='entry'><td>" + data[i].symbol + "</td><td>" + data[i].symbol + "</td><td>" + data[i].exchangeName + "</td></tr>"
+                   }
 //                  record += "<tr><td>data-set-1</td><td>url</td><td>" + data.url + "</td></tr>"
 //                  record += "<tr><td>data-set-1</td><td>host</td><td>" + data.headers["host"] + "</td></tr>"
 //                  record += "<tr><td>data-set-1</td><td>x-request-id</td><td>" + data.headers["x-request-id"] + "</td></tr>"
 //                  record += "<tr><td>data-set-1</td><td>x-request-start</td><td>" + data.headers["x-request-start"] + "</td></tr>"
+                  
                   $("#data-sets").append(record)
+                  $('#data-sets').DataTable()
                 }
-              );
-                
-               $('#data-sets').DataTable();
+              );  
             });
         </script>          
 
