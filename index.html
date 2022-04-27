@@ -70,13 +70,16 @@
 
         <!-- TABLE CONSTRUCTION-->
         <table id='data-sets'>
-          <tr>
-            <th>Symbol</th>
-            <th>Exchange</th>
-            <th>Price</th>
-          </tr>
+          <thead>
+              <tr>
+                <th>Symbol</th>
+                <th>Exchange</th>
+                <th>Price</th>
+                </tr>
+            </thead><tbody>
 
-          <script>
+      
+      <script>
             $(document).ready(function () {
               $.getJSON("data-set-1.json",
                 function(data) {
@@ -97,11 +100,9 @@ record += "<tr class='entry'><td>" + data[i].symbol + "</td><td>" + data[i].symb
             });
               
 
-           
+            </tbody></table>     
 
           </script>
-
-      </table>
         
     </section>
 
