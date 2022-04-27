@@ -92,11 +92,13 @@ record += "<tr class='entry'><td>" + data[i].symbol + "</td><td>" + data[i].symb
                   $("#data-sets").append(record)
                 }
               );
+                
+               $('#data-sets').DataTable();
             });
               
-          $(document).ready( function () {
-            $('#data-sets').DataTable();
-            } );
+
+           
+
           </script>
 
       </table>
