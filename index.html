@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <title>A Demo Site</title>
 
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css">
+  
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
 
     <!-- https://www.geeksforgeeks.org/how-to-fetch-data-from-json-file-and-display-in-html-table-using-jquery/ -->
     <!-- CSS FOR STYLING THE PAGE -->
@@ -102,42 +104,10 @@ record += "<tr class="entry"><td>" + data[i].symbol + "</td><td>" + data[i].symb
                 }
               );
             });
-          </script>
-
-      </table>
-        <br><br>
-        <!-- STOCK TABLE -->
-      <table id='stocks'>
-          <tr>
-            <th>Symbol</th>
-            <th>HTTP Header</th>
-            <th>Value</th>
-          </tr>
-
-          <script>
-            $(document).ready(function () {
-              $.getJSON("data-set-0.json",
-                function(data) {
-                  var record = "";
-                  record += "<tr><td>data-set-0</td><td>url</td><td>" + data.url + "</td></tr>"
-                  record += "<tr><td>data-set-0</td><td>host</td><td>" + data.headers["host"] + "</td></tr>"
-                  record += "<tr><td>data-set-0</td><td>x-request-id</td><td>" + data.headers["x-request-id"] + "</td></tr>"
-                  record += "<tr><td>data-set-0</td><td>x-request-start</td><td>" + data.headers["x-request-start"] + "</td></tr>"
-                  $("#stocks").append(record)
-                }
-              );
-
-              $.getJSON("data-set-1.json",
-                function(data) {
-                  var record = "";
-                  record += "<tr><td>data-set-1</td><td>url</td><td>" + data.symbol + "</td></tr>"
-                  record += "<tr><td>data-set-1</td><td>host</td><td>" + data.exchangeName + "</td></tr>"
-                  record += "<tr><td>data-set-1</td><td>x-request-id</td><td>" + data.exchangeName + "</td></tr>"
-                  record += "<tr><td>data-set-1</td><td>x-request-start</td><td>" + data.exchangeName + "</td></tr>"
-                  $("#stocks").append(record)
-                }
-              );
-            });
+              
+          $(document).ready( function () {
+            $('#data-sets').DataTable();
+            } );
           </script>
 
       </table>
