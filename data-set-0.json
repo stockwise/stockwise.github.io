@@ -13152,22 +13152,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "LI",
-    "companyName": "Li Auto Inc.",
-    "marketCap": 25115768832,
-    "sector": "Consumer Cyclical",
-    "industry": "Auto Manufacturers",
-    "beta": 0,
-    "price": 22.43,
-    "lastAnnualDividend": 0,
-    "volume": 10039116,
-    "exchange": "NASDAQ Global Select",
-    "exchangeShortName": "NASDAQ",
-    "country": "CN",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "CCRO3.SA",
     "companyName": "CCR S.A.",
     "marketCap": 25068199936,
@@ -13612,6 +13596,22 @@
     "exchange": "Toronto Stock Exchange",
     "exchangeShortName": "TSX",
     "country": "CA",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "LI",
+    "companyName": "Li Auto Inc.",
+    "marketCap": 23744847872,
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "beta": 0,
+    "price": 22.43,
+    "lastAnnualDividend": 0,
+    "volume": 10039116,
+    "exchange": "NASDAQ Global Select",
+    "exchangeShortName": "NASDAQ",
+    "country": "CN",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -58480,22 +58480,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "GSHD",
-    "companyName": "Goosehead Insurance, Inc",
-    "marketCap": 2140030848,
-    "sector": "Financial Services",
-    "industry": "Insurance—Diversified",
-    "beta": 0.6635,
-    "price": 57.49,
-    "lastAnnualDividend": 1.63,
-    "volume": 212829,
-    "exchange": "NASDAQ Global Select",
-    "exchangeShortName": "NASDAQ",
-    "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "CURY3.SA",
     "companyName": "Cury Construtora e Incorporadora S.A.",
     "marketCap": 2139304448,
@@ -58635,6 +58619,22 @@
     "volume": 467877,
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
+    "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "GSHD",
+    "companyName": "Goosehead Insurance, Inc",
+    "marketCap": 2134546304,
+    "sector": "Financial Services",
+    "industry": "Insurance—Diversified",
+    "beta": 0.6635,
+    "price": 57.49,
+    "lastAnnualDividend": 1.63,
+    "volume": 212829,
+    "exchange": "NASDAQ Global Select",
+    "exchangeShortName": "NASDAQ",
     "country": "US",
     "isEtf": false,
     "isActivelyTrading": true
