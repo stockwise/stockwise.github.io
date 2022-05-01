@@ -322,7 +322,7 @@
   {
     "symbol": "VALE3.SA",
     "companyName": "Vale S.A.",
-    "marketCap": 395400937472,
+    "marketCap": 398380269568,
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining",
     "beta": 0.6507,
@@ -36352,22 +36352,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "ACO-X.TO",
-    "companyName": "ATCO Ltd.",
-    "marketCap": 5232518144,
-    "sector": "Utilities",
-    "industry": "Utilities—Diversified",
-    "beta": 0.8096,
-    "price": 45.77,
-    "lastAnnualDividend": 1.8066,
-    "volume": 242191,
-    "exchange": "Toronto Stock Exchange",
-    "exchangeShortName": "TSX",
-    "country": "CA",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "TV",
     "companyName": "Grupo Televisa, S.A.B.",
     "marketCap": 5231877632,
@@ -36380,6 +36364,22 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "MX",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "ACO-X.TO",
+    "companyName": "ATCO Ltd.",
+    "marketCap": 5228947968,
+    "sector": "Utilities",
+    "industry": "Utilities—Diversified",
+    "beta": 0.8096,
+    "price": 45.77,
+    "lastAnnualDividend": 1.8066,
+    "volume": 242191,
+    "exchange": "Toronto Stock Exchange",
+    "exchangeShortName": "TSX",
+    "country": "CA",
     "isEtf": false,
     "isActivelyTrading": true
   },
