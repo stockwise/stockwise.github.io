@@ -6274,7 +6274,7 @@
   {
     "symbol": "CCZ",
     "companyName": "Comcast Holdings Corp.",
-    "marketCap": 57378385920,
+    "marketCap": 57378414592,
     "sector": "Consumer Cyclical",
     "industry": "Entertainment",
     "beta": 0.0439,
@@ -21922,11 +21922,11 @@
   {
     "symbol": "FPH.NZ",
     "companyName": "Fisher & Paykel Healthcare Corporation Limited",
-    "marketCap": 12252490752,
+    "marketCap": 12235177984,
     "sector": "Healthcare",
     "industry": "Medical Instruments & Supplies",
     "beta": -0.1935,
-    "price": 21.23,
+    "price": 21.2,
     "lastAnnualDividend": 0.78,
     "volume": 737918,
     "exchange": "NZSE",
@@ -22096,22 +22096,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "MEL.NZ",
-    "companyName": "Meridian Energy Limited",
-    "marketCap": 12167347200,
-    "sector": "Utilities",
-    "industry": "Utilities—Renewable",
-    "beta": 0.7418,
-    "price": 4.725,
-    "lastAnnualDividend": 0.1705,
-    "volume": 2044334,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "MUB",
     "companyName": "iShares National Muni Bond ETF",
     "marketCap": 12162633000,
@@ -22173,6 +22157,22 @@
     "exchangeShortName": "NASDAQ",
     "country": "US",
     "isEtf": true,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "MEL.NZ",
+    "companyName": "Meridian Energy Limited",
+    "marketCap": 12102969344,
+    "sector": "Utilities",
+    "industry": "Utilities—Renewable",
+    "beta": 0.7418,
+    "price": 4.7,
+    "lastAnnualDividend": 0.1705,
+    "volume": 2044334,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
     "isActivelyTrading": true
   },
   {
@@ -22656,22 +22656,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "AIA.NZ",
-    "companyName": "Auckland International Airport Limited",
-    "marketCap": 11604797440,
-    "sector": "Industrials",
-    "industry": "Airports & Air Services",
-    "beta": 0.8518,
-    "price": 7.88,
-    "lastAnnualDividend": 0,
-    "volume": 1891984,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "NMR",
     "companyName": "Nomura Holdings, Inc.",
     "marketCap": 11596889088,
@@ -22716,6 +22700,22 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "KR",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "AIA.NZ",
+    "companyName": "Auckland International Airport Limited",
+    "marketCap": 11538526208,
+    "sector": "Industrials",
+    "industry": "Airports & Air Services",
+    "beta": 0.8518,
+    "price": 7.835,
+    "lastAnnualDividend": 0,
+    "volume": 1891984,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -32768,22 +32768,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "CEN.NZ",
-    "companyName": "Contact Energy Limited",
-    "marketCap": 6279739392,
-    "sector": "Utilities",
-    "industry": "Utilities—Renewable",
-    "beta": 0.4089,
-    "price": 8.06,
-    "lastAnnualDividend": 0.35,
-    "volume": 1376091,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "IOT",
     "companyName": "Samsara Inc.",
     "marketCap": 6278283776,
@@ -32830,6 +32814,22 @@
     "country": "US",
     "isEtf": false,
     "isActivelyTrading": false
+  },
+  {
+    "symbol": "CEN.NZ",
+    "companyName": "Contact Energy Limited",
+    "marketCap": 6271948288,
+    "sector": "Utilities",
+    "industry": "Utilities—Renewable",
+    "beta": 0.4089,
+    "price": 8.05,
+    "lastAnnualDividend": 0.35,
+    "volume": 1376091,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
   },
   {
     "symbol": "MASI",
@@ -33552,6 +33552,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "IFT.NZ",
+    "companyName": "Infratil Limited",
+    "marketCap": 6036658176,
+    "sector": "Utilities",
+    "industry": "Utilities—Renewable",
+    "beta": 0.8348,
+    "price": 8.35,
+    "lastAnnualDividend": 0.245,
+    "volume": 636046,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "SON",
     "companyName": "Sonoco Products Company",
     "marketCap": 6035735552,
@@ -33644,22 +33660,6 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "IFT.NZ",
-    "companyName": "Infratil Limited",
-    "marketCap": 6014968832,
-    "sector": "Utilities",
-    "industry": "Utilities—Renewable",
-    "beta": 0.8348,
-    "price": 8.32,
-    "lastAnnualDividend": 0.245,
-    "volume": 636046,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -37568,6 +37568,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "FBU.NZ",
+    "companyName": "Fletcher Building Limited",
+    "marketCap": 4977022976,
+    "sector": "Basic Materials",
+    "industry": "Building Materials",
+    "beta": 1.2293,
+    "price": 6.15,
+    "lastAnnualDividend": 0.36,
+    "volume": 1157668,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "CHP-UN.TO",
     "companyName": "Choice Properties Real Estate Investment Trust",
     "marketCap": 4975366656,
@@ -37612,22 +37628,6 @@
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "FBU.NZ",
-    "companyName": "Fletcher Building Limited",
-    "marketCap": 4968929792,
-    "sector": "Basic Materials",
-    "industry": "Building Materials",
-    "beta": 1.2293,
-    "price": 6.14,
-    "lastAnnualDividend": 0.36,
-    "volume": 1157668,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -39712,6 +39712,22 @@
     "isActivelyTrading": false
   },
   {
+    "symbol": "RYM.NZ",
+    "companyName": "Ryman Healthcare Limited",
+    "marketCap": 4550000128,
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "beta": 0.9487,
+    "price": 9.1,
+    "lastAnnualDividend": 0.312,
+    "volume": 885663,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "BTG",
     "companyName": "B2Gold Corp.",
     "marketCap": 4540062208,
@@ -39788,22 +39804,6 @@
     "exchange": "NASDAQ Global Market",
     "exchangeShortName": "NASDAQ",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "RYM.NZ",
-    "companyName": "Ryman Healthcare Limited",
-    "marketCap": 4520000000,
-    "sector": "Healthcare",
-    "industry": "Medical Care Facilities",
-    "beta": 0.9487,
-    "price": 9.04,
-    "lastAnnualDividend": 0.312,
-    "volume": 885663,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -45136,22 +45136,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "ATM.NZ",
-    "companyName": "The a2 Milk Company Limited",
-    "marketCap": 3584427008,
-    "sector": "Consumer Defensive",
-    "industry": "Farm Products",
-    "beta": -0.1215,
-    "price": 4.82,
-    "lastAnnualDividend": 0,
-    "volume": 761361,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "PGMN3.SA",
     "companyName": "Empreendimentos Pague Menos S.A.",
     "marketCap": 3584127488,
@@ -45228,6 +45212,22 @@
     "exchange": "Brussels",
     "exchangeShortName": "EURONEXT",
     "country": "LU",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "ATM.NZ",
+    "companyName": "The a2 Milk Company Limited",
+    "marketCap": 3562117120,
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products",
+    "beta": -0.1215,
+    "price": 4.79,
+    "lastAnnualDividend": 0,
+    "volume": 761361,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -47392,6 +47392,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "CNU.NZ",
+    "companyName": "Chorus Limited",
+    "marketCap": 3291402240,
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "beta": 0.062,
+    "price": 7.3,
+    "lastAnnualDividend": 0.285,
+    "volume": 540162,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "LDSF",
     "companyName": "First Trust Low Duration Strategic Focus ETF",
     "marketCap": 3287605500,
@@ -47421,22 +47437,6 @@
     "exchangeShortName": "TSX",
     "country": "CA",
     "isEtf": true,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "CNU.NZ",
-    "companyName": "Chorus Limited",
-    "marketCap": 3282384640,
-    "sector": "Communication Services",
-    "industry": "Telecom Services",
-    "beta": 0.062,
-    "price": 7.28,
-    "lastAnnualDividend": 0.285,
-    "volume": 540162,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
     "isActivelyTrading": true
   },
   {
@@ -49872,22 +49872,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "GNE.NZ",
-    "companyName": "Genesis Energy Limited",
-    "marketCap": 2984610048,
-    "sector": "Utilities",
-    "industry": "Utilities—Independent Power Producers",
-    "beta": 0.5681,
-    "price": 2.86,
-    "lastAnnualDividend": 0.175,
-    "volume": 356683,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "ERF",
     "companyName": "Enerplus Corporation",
     "marketCap": 2983965184,
@@ -49980,6 +49964,22 @@
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
     "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "GNE.NZ",
+    "companyName": "Genesis Energy Limited",
+    "marketCap": 2974174464,
+    "sector": "Utilities",
+    "industry": "Utilities—Independent Power Producers",
+    "beta": 0.5681,
+    "price": 2.85,
+    "lastAnnualDividend": 0.175,
+    "volume": 356683,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -52512,22 +52512,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "SUM.NZ",
-    "companyName": "Summerset Group Holdings Limited",
-    "marketCap": 2692279808,
-    "sector": "Healthcare",
-    "industry": "Medical Care Facilities",
-    "beta": 0.8696,
-    "price": 11.65,
-    "lastAnnualDividend": 0.099,
-    "volume": 258079,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "NEX",
     "companyName": "NexTier Oilfield Solutions Inc.",
     "marketCap": 2691717120,
@@ -52540,6 +52524,22 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "SUM.NZ",
+    "companyName": "Summerset Group Holdings Limited",
+    "marketCap": 2689969152,
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "beta": 0.8696,
+    "price": 11.64,
+    "lastAnnualDividend": 0.099,
+    "volume": 258079,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -57808,6 +57808,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "SKC.NZ",
+    "companyName": "SkyCity Entertainment Group Limited",
+    "marketCap": 2181788160,
+    "sector": "Consumer Cyclical",
+    "industry": "Resorts & Casinos",
+    "beta": 1.2827,
+    "price": 2.87,
+    "lastAnnualDividend": 0.07,
+    "volume": 625937,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "TVE.TO",
     "companyName": "Tamarack Valley Energy Ltd.",
     "marketCap": 2181475840,
@@ -57948,22 +57964,6 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "SKC.NZ",
-    "companyName": "SkyCity Entertainment Group Limited",
-    "marketCap": 2166584064,
-    "sector": "Consumer Cyclical",
-    "industry": "Resorts & Casinos",
-    "beta": 1.2827,
-    "price": 2.85,
-    "lastAnnualDividend": 0.07,
-    "volume": 625937,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -62688,22 +62688,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "VHP.NZ",
-    "companyName": "Vital Healthcare Property Trust",
-    "marketCap": 1779943680,
-    "sector": "Real Estate",
-    "industry": "REIT—Healthcare Facilities",
-    "beta": 0.4586,
-    "price": 3.065,
-    "lastAnnualDividend": 0.0688,
-    "volume": 934337,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "BUL",
     "companyName": "Pacer US Cash Cows Growth ETF",
     "marketCap": 1779705470,
@@ -62780,6 +62764,22 @@
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
     "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "VHP.NZ",
+    "companyName": "Vital Healthcare Property Trust",
+    "marketCap": 1774136448,
+    "sector": "Real Estate",
+    "industry": "REIT—Healthcare Facilities",
+    "beta": 0.4586,
+    "price": 3.055,
+    "lastAnnualDividend": 0.0688,
+    "volume": 934337,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -74976,22 +74976,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "ARV.NZ",
-    "companyName": "Arvida Group Limited",
-    "marketCap": 1173699456,
-    "sector": "Healthcare",
-    "industry": "Medical Care Facilities",
-    "beta": 0.7031,
-    "price": 1.63,
-    "lastAnnualDividend": 0.0798,
-    "volume": 579167,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "ADPT",
     "companyName": "Adaptive Biotechnologies Corporation",
     "marketCap": 1173339776,
@@ -75180,6 +75164,22 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "ARV.NZ",
+    "companyName": "Arvida Group Limited",
+    "marketCap": 1166498816,
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "beta": 0.7031,
+    "price": 1.62,
+    "lastAnnualDividend": 0.0798,
+    "volume": 579167,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -76864,6 +76864,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "SKL.NZ",
+    "companyName": "Skellerup Holdings Limited",
+    "marketCap": 1107214976,
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "beta": 0.573,
+    "price": 5.67,
+    "lastAnnualDividend": 0.105,
+    "volume": 155244,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "OCFC",
     "companyName": "OceanFirst Financial Corp.",
     "marketCap": 1105841664,
@@ -77276,22 +77292,6 @@
     "exchange": "Nasdaq Capital Market",
     "exchangeShortName": "MUTUAL_FUND",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "SKL.NZ",
-    "companyName": "Skellerup Holdings Limited",
-    "marketCap": 1097451136,
-    "sector": "Industrials",
-    "industry": "Specialty Industrial Machinery",
-    "beta": 0.573,
-    "price": 5.62,
-    "lastAnnualDividend": 0.105,
-    "volume": 155244,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
