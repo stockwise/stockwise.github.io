@@ -322,7 +322,7 @@
   {
     "symbol": "VALE3.SA",
     "companyName": "Vale S.A.",
-    "marketCap": 398380269568,
+    "marketCap": 394824613888,
     "sector": "Basic Materials",
     "industry": "Other Industrial Metals & Mining",
     "beta": 0.6507,
@@ -5024,6 +5024,22 @@
     "isActivelyTrading": false
   },
   {
+    "symbol": "IBN",
+    "companyName": "ICICI Bank Limited",
+    "marketCap": 67446730752,
+    "sector": "Financial Services",
+    "industry": "Banks—Regional",
+    "beta": 1.0315,
+    "price": 19.04,
+    "lastAnnualDividend": 0.048,
+    "volume": 12619513,
+    "exchange": "New York Stock Exchange",
+    "exchangeShortName": "NYSE",
+    "country": "IN",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "MS-PF",
     "companyName": "Morgan Stanley",
     "marketCap": 67234697216,
@@ -5132,22 +5148,6 @@
     "exchange": "Nasdaq Capital Market",
     "exchangeShortName": "MUTUAL_FUND",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "IBN",
-    "companyName": "ICICI Bank Limited",
-    "marketCap": 66227408896,
-    "sector": "Financial Services",
-    "industry": "Banks—Regional",
-    "beta": 1.0315,
-    "price": 19.04,
-    "lastAnnualDividend": 0.048,
-    "volume": 12619513,
-    "exchange": "New York Stock Exchange",
-    "exchangeShortName": "NYSE",
-    "country": "IN",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -7824,22 +7824,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "HMC",
-    "companyName": "Honda Motor Co., Ltd.",
-    "marketCap": 45227438080,
-    "sector": "Consumer Cyclical",
-    "industry": "Auto Manufacturers",
-    "beta": 0.9615,
-    "price": 26.25,
-    "lastAnnualDividend": 0.484,
-    "volume": 1189908,
-    "exchange": "New York Stock Exchange",
-    "exchangeShortName": "NYSE",
-    "country": "JP",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "Z74.SI",
     "companyName": "Singapore Telecommunications Limited",
     "marketCap": 45220249600,
@@ -7916,6 +7900,22 @@
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
     "country": "GB",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "HMC",
+    "companyName": "Honda Motor Co., Ltd.",
+    "marketCap": 44930551808,
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "beta": 0.9615,
+    "price": 26.25,
+    "lastAnnualDividend": 0.484,
+    "volume": 1189908,
+    "exchange": "New York Stock Exchange",
+    "exchangeShortName": "NYSE",
+    "country": "JP",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -34306,7 +34306,7 @@
   {
     "symbol": "TIXT",
     "companyName": "TELUS International (Cda) Inc.",
-    "marketCap": 5777261568,
+    "marketCap": 5785807872,
     "sector": "Technology",
     "industry": "Software—Infrastructure",
     "beta": 0,
@@ -56480,22 +56480,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "IBA",
-    "companyName": "Industrias Bachoco, S.A.B. de C.V.",
-    "marketCap": 2293878784,
-    "sector": "Consumer Defensive",
-    "industry": "Farm Products",
-    "beta": 0.8157,
-    "price": 45.785,
-    "lastAnnualDividend": 0.8541,
-    "volume": 16988,
-    "exchange": "New York Stock Exchange",
-    "exchangeShortName": "NYSE",
-    "country": "MX",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "SCL",
     "companyName": "Stepan Company",
     "marketCap": 2289622784,
@@ -56508,6 +56492,22 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "IBA",
+    "companyName": "Industrias Bachoco, S.A.B. de C.V.",
+    "marketCap": 2289250048,
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products",
+    "beta": 0.8157,
+    "price": 45.785,
+    "lastAnnualDividend": 0.8541,
+    "volume": 16988,
+    "exchange": "New York Stock Exchange",
+    "exchangeShortName": "NYSE",
+    "country": "MX",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -69650,7 +69650,7 @@
   {
     "symbol": "CHEF",
     "companyName": "The Chefs' Warehouse, Inc.",
-    "marketCap": 1400187904,
+    "marketCap": 1399294848,
     "sector": "Consumer Defensive",
     "industry": "Food Distribution",
     "beta": 2.2412,
