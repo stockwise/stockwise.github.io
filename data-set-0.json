@@ -1959,7 +1959,7 @@
     "industry": "Telecom Services",
     "beta": 0.6466,
     "price": 19.12,
-    "lastAnnualDividend": 1.5835,
+    "lastAnnualDividend": 1.9762,
     "volume": 59841222,
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
@@ -9952,22 +9952,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "ALL-PH",
-    "companyName": "The Allstate Corporation",
-    "marketCap": 33484187648,
-    "sector": "Financial Services",
-    "industry": "Insurance—Property & Casualty",
-    "beta": 0.8069,
-    "price": 21.57,
-    "lastAnnualDividend": 1.275,
-    "volume": 147063,
-    "exchange": "New York Stock Exchange",
-    "exchangeShortName": "NYSE",
-    "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "TDG",
     "companyName": "TransDigm Group Incorporated",
     "marketCap": 33436991488,
@@ -10141,6 +10125,22 @@
     "exchangeShortName": "AMEX",
     "country": "US",
     "isEtf": true,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "ALL-PH",
+    "companyName": "The Allstate Corporation",
+    "marketCap": 32622252032,
+    "sector": "Financial Services",
+    "industry": "Insurance—Property & Casualty",
+    "beta": 0.8069,
+    "price": 21.57,
+    "lastAnnualDividend": 1.275,
+    "volume": 147063,
+    "exchange": "New York Stock Exchange",
+    "exchangeShortName": "NYSE",
+    "country": "US",
+    "isEtf": false,
     "isActivelyTrading": true
   },
   {
@@ -21632,6 +21632,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "FPH.NZ",
+    "companyName": "Fisher & Paykel Healthcare Corporation Limited",
+    "marketCap": 12494885888,
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies",
+    "beta": -0.1935,
+    "price": 21.65,
+    "lastAnnualDividend": 0.78,
+    "volume": 730535,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "LAME4.SA",
     "companyName": "Lojas Americanas S.A.",
     "marketCap": 12494321664,
@@ -21694,22 +21710,6 @@
     "country": "US",
     "isEtf": false,
     "isActivelyTrading": false
-  },
-  {
-    "symbol": "FPH.NZ",
-    "companyName": "Fisher & Paykel Healthcare Corporation Limited",
-    "marketCap": 12442944512,
-    "sector": "Healthcare",
-    "industry": "Medical Instruments & Supplies",
-    "beta": -0.1935,
-    "price": 21.56,
-    "lastAnnualDividend": 0.78,
-    "volume": 730535,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
   },
   {
     "symbol": "BN4.SI",
@@ -22066,11 +22066,11 @@
   {
     "symbol": "MEL.NZ",
     "companyName": "Meridian Energy Limited",
-    "marketCap": 12128720896,
+    "marketCap": 12141596672,
     "sector": "Utilities",
     "industry": "Utilities—Renewable",
     "beta": 0.7418,
-    "price": 4.71,
+    "price": 4.715,
     "lastAnnualDividend": 0.1705,
     "volume": 2040155,
     "exchange": "NZSE",
@@ -22800,6 +22800,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "AIA.NZ",
+    "companyName": "Auckland International Airport Limited",
+    "marketCap": 11486982144,
+    "sector": "Industrials",
+    "industry": "Airports & Air Services",
+    "beta": 0.8518,
+    "price": 7.8,
+    "lastAnnualDividend": 0,
+    "volume": 1872329,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "NGACU",
     "companyName": "NextGen Acquisition Corporation",
     "marketCap": 11468657700,
@@ -22814,22 +22830,6 @@
     "country": "US",
     "isEtf": false,
     "isActivelyTrading": false
-  },
-  {
-    "symbol": "AIA.NZ",
-    "companyName": "Auckland International Airport Limited",
-    "marketCap": 11464891392,
-    "sector": "Industrials",
-    "industry": "Airports & Air Services",
-    "beta": 0.8518,
-    "price": 7.785,
-    "lastAnnualDividend": 0,
-    "volume": 1872329,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
   },
   {
     "symbol": "C07.SI",
@@ -26272,6 +26272,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "SPK.NZ",
+    "companyName": "Spark New Zealand Limited",
+    "marketCap": 9225587712,
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "beta": 0.1919,
+    "price": 4.935,
+    "lastAnnualDividend": 0.125,
+    "volume": 2994254,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "CIB",
     "companyName": "Bancolombia S.A.",
     "marketCap": 9209502720,
@@ -26316,22 +26332,6 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "CA",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "SPK.NZ",
-    "companyName": "Spark New Zealand Limited",
-    "marketCap": 9188199424,
-    "sector": "Communication Services",
-    "industry": "Telecom Services",
-    "beta": 0.1919,
-    "price": 4.915,
-    "lastAnnualDividend": 0.125,
-    "volume": 2994254,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -28048,6 +28048,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "MCY.NZ",
+    "companyName": "Mercury NZ Limited",
+    "marketCap": 8269161472,
+    "sector": "Utilities",
+    "industry": "Utilities—Renewable",
+    "beta": 0.5628,
+    "price": 6.07,
+    "lastAnnualDividend": 0.182,
+    "volume": 1027217,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "ARTGX",
     "companyName": "Artisan Global Value Fund Investor Class",
     "marketCap": 8262442500,
@@ -28093,22 +28109,6 @@
     "exchangeShortName": "NASDAQ",
     "country": "US",
     "isEtf": true,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "MCY.NZ",
-    "companyName": "Mercury NZ Limited",
-    "marketCap": 8241915392,
-    "sector": "Utilities",
-    "industry": "Utilities—Renewable",
-    "beta": 0.5628,
-    "price": 6.05,
-    "lastAnnualDividend": 0.182,
-    "volume": 1027217,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
     "isActivelyTrading": true
   },
   {
@@ -33570,11 +33570,11 @@
   {
     "symbol": "IFT.NZ",
     "companyName": "Infratil Limited",
-    "marketCap": 6022198784,
+    "marketCap": 6029428224,
     "sector": "Utilities",
     "industry": "Utilities—Renewable",
     "beta": 0.8348,
-    "price": 8.33,
+    "price": 8.34,
     "lastAnnualDividend": 0.245,
     "volume": 628213,
     "exchange": "NZSE",
@@ -37232,6 +37232,22 @@
     "isActivelyTrading": false
   },
   {
+    "symbol": "FBU.NZ",
+    "companyName": "Fletcher Building Limited",
+    "marketCap": 5066042880,
+    "sector": "Basic Materials",
+    "industry": "Building Materials",
+    "beta": 1.2293,
+    "price": 6.26,
+    "lastAnnualDividend": 0.36,
+    "volume": 1158247,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "SOFI",
     "companyName": "SoFi Technologies, Inc.",
     "marketCap": 5061658112,
@@ -37261,22 +37277,6 @@
     "exchangeShortName": "ETF",
     "country": "US",
     "isEtf": true,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "FBU.NZ",
-    "companyName": "Fletcher Building Limited",
-    "marketCap": 5057950208,
-    "sector": "Basic Materials",
-    "industry": "Building Materials",
-    "beta": 1.2293,
-    "price": 6.25,
-    "lastAnnualDividend": 0.36,
-    "volume": 1158247,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
     "isActivelyTrading": true
   },
   {
@@ -39728,6 +39728,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "RYM.NZ",
+    "companyName": "Ryman Healthcare Limited",
+    "marketCap": 4554999808,
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "beta": 0.9487,
+    "price": 9.11,
+    "lastAnnualDividend": 0.312,
+    "volume": 877976,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "ENVIW",
     "companyName": "Environmental Impact Acquisition Corp.",
     "marketCap": 4554884600,
@@ -39820,22 +39836,6 @@
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "RYM.NZ",
-    "companyName": "Ryman Healthcare Limited",
-    "marketCap": 4539999744,
-    "sector": "Healthcare",
-    "industry": "Medical Care Facilities",
-    "beta": 0.9487,
-    "price": 9.08,
-    "lastAnnualDividend": 0.312,
-    "volume": 877976,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -40992,6 +40992,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "VCT.NZ",
+    "companyName": "Vector Limited",
+    "marketCap": 4340000256,
+    "sector": "Utilities",
+    "industry": "Utilities—Diversified",
+    "beta": 0.4399,
+    "price": 4.34,
+    "lastAnnualDividend": 0.1675,
+    "volume": 167783,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "PDEV",
     "companyName": "Principal International Multi-Factor ETF",
     "marketCap": 4338324000,
@@ -41164,22 +41180,6 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "VCT.NZ",
-    "companyName": "Vector Limited",
-    "marketCap": 4310000128,
-    "sector": "Utilities",
-    "industry": "Utilities—Diversified",
-    "beta": 0.4399,
-    "price": 4.31,
-    "lastAnnualDividend": 0.1675,
-    "volume": 167783,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -43063,7 +43063,7 @@
     "industry": "REIT—Hotel & Motel",
     "beta": 1.1578,
     "price": 17.5,
-    "lastAnnualDividend": 0.18,
+    "lastAnnualDividend": 0.13,
     "volume": 2235436,
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
@@ -48752,6 +48752,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "GMT.NZ",
+    "companyName": "Goodman Property Trust",
+    "marketCap": 3108992256,
+    "sector": "Real Estate",
+    "industry": "REIT—Industrial",
+    "beta": 0.1497,
+    "price": 2.225,
+    "lastAnnualDividend": 0.0958,
+    "volume": 854156,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "EYE",
     "companyName": "National Vision Holdings, Inc.",
     "marketCap": 3103934720,
@@ -48780,22 +48796,6 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "GMT.NZ",
-    "companyName": "Goodman Property Trust",
-    "marketCap": 3102006016,
-    "sector": "Real Estate",
-    "industry": "REIT—Industrial",
-    "beta": 0.1497,
-    "price": 2.22,
-    "lastAnnualDividend": 0.0958,
-    "volume": 854156,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -49506,7 +49506,7 @@
   {
     "symbol": "ASB",
     "companyName": "Associated Banc-Corp",
-    "marketCap": 3017384960,
+    "marketCap": 3017264384,
     "sector": "Financial Services",
     "industry": "Banks—Regional",
     "beta": 1.0196,
@@ -49888,6 +49888,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "GNE.NZ",
+    "companyName": "Genesis Energy Limited",
+    "marketCap": 2984610048,
+    "sector": "Utilities",
+    "industry": "Utilities—Independent Power Producers",
+    "beta": 0.5681,
+    "price": 2.86,
+    "lastAnnualDividend": 0.175,
+    "volume": 358034,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "ARVN",
     "companyName": "Arvinas, Inc.",
     "marketCap": 2980486144,
@@ -49980,22 +49996,6 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "NL",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "GNE.NZ",
-    "companyName": "Genesis Energy Limited",
-    "marketCap": 2974174464,
-    "sector": "Utilities",
-    "industry": "Utilities—Independent Power Producers",
-    "beta": 0.5681,
-    "price": 2.85,
-    "lastAnnualDividend": 0.175,
-    "volume": 358034,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -52672,6 +52672,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "SUM.NZ",
+    "companyName": "Summerset Group Holdings Limited",
+    "marketCap": 2696901888,
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "beta": 0.8696,
+    "price": 11.67,
+    "lastAnnualDividend": 0.099,
+    "volume": 242287,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "CVA",
     "companyName": "Covanta Holding Corporation",
     "marketCap": 2694762496,
@@ -52860,22 +52876,6 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "SUM.NZ",
-    "companyName": "Summerset Group Holdings Limited",
-    "marketCap": 2680725248,
-    "sector": "Healthcare",
-    "industry": "Medical Care Facilities",
-    "beta": 0.8696,
-    "price": 11.6,
-    "lastAnnualDividend": 0.099,
-    "volume": 242287,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -65232,22 +65232,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "KPG.NZ",
-    "companyName": "Kiwi Property Group Limited",
-    "marketCap": 1664295296,
-    "sector": "Real Estate",
-    "industry": "REIT—Diversified",
-    "beta": 0.542,
-    "price": 1.06,
-    "lastAnnualDividend": 0.0845,
-    "volume": 1069176,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "ADV",
     "companyName": "Advantage Solutions Inc.",
     "marketCap": 1663880192,
@@ -65372,6 +65356,22 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "KPG.NZ",
+    "companyName": "Kiwi Property Group Limited",
+    "marketCap": 1656444800,
+    "sector": "Real Estate",
+    "industry": "REIT—Diversified",
+    "beta": 0.542,
+    "price": 1.055,
+    "lastAnnualDividend": 0.0845,
+    "volume": 1069176,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -70320,22 +70320,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "HGH.NZ",
-    "companyName": "Heartland Group Holdings Limited",
-    "marketCap": 1374627456,
-    "sector": "Financial Services",
-    "industry": "Mortgage Finance",
-    "beta": 1.155,
-    "price": 2.29,
-    "lastAnnualDividend": 0.18,
-    "volume": 338104,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "EWEB",
     "companyName": "Global X Emerging Markets Internet & E-commerce ETF",
     "marketCap": 1374402560,
@@ -70444,6 +70428,22 @@
     "exchange": "Paris",
     "exchangeShortName": "EURONEXT",
     "country": "FR",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "HGH.NZ",
+    "companyName": "Heartland Group Holdings Limited",
+    "marketCap": 1368624640,
+    "sector": "Financial Services",
+    "industry": "Mortgage Finance",
+    "beta": 1.155,
+    "price": 2.28,
+    "lastAnnualDividend": 0.18,
+    "volume": 338104,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -75600,6 +75600,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "WHS.NZ",
+    "companyName": "The Warehouse Group Limited",
+    "marketCap": 1158455680,
+    "sector": "Consumer Cyclical",
+    "industry": "Department Stores",
+    "beta": 0.4559,
+    "price": 3.34,
+    "lastAnnualDividend": 0.275,
+    "volume": 321935,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "SXI",
     "companyName": "Standex International Corporation",
     "marketCap": 1158438144,
@@ -75757,22 +75773,6 @@
     "exchangeShortName": "NASDAQ",
     "country": "US",
     "isEtf": true,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "WHS.NZ",
-    "companyName": "The Warehouse Group Limited",
-    "marketCap": 1151518720,
-    "sector": "Consumer Cyclical",
-    "industry": "Department Stores",
-    "beta": 0.4559,
-    "price": 3.32,
-    "lastAnnualDividend": 0.275,
-    "volume": 321935,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
-    "isEtf": false,
     "isActivelyTrading": true
   },
   {
@@ -76640,6 +76640,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "ARG.NZ",
+    "companyName": "Argosy Property Limited",
+    "marketCap": 1123395200,
+    "sector": "Real Estate",
+    "industry": "REIT—Diversified",
+    "beta": 0.8598,
+    "price": 1.33,
+    "lastAnnualDividend": 0.1004,
+    "volume": 544221,
+    "exchange": "NZSE",
+    "exchangeShortName": "EURONEXT",
+    "country": "NZ",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "EGHT",
     "companyName": "8x8, Inc.",
     "marketCap": 1122961152,
@@ -77052,22 +77068,6 @@
     "exchange": "NASDAQ Global Market",
     "exchangeShortName": "NASDAQ",
     "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
-    "symbol": "ARG.NZ",
-    "companyName": "Argosy Property Limited",
-    "marketCap": 1110725248,
-    "sector": "Real Estate",
-    "industry": "REIT—Diversified",
-    "beta": 0.8598,
-    "price": 1.315,
-    "lastAnnualDividend": 0.1004,
-    "volume": 544221,
-    "exchange": "NZSE",
-    "exchangeShortName": "EURONEXT",
-    "country": "NZ",
     "isEtf": false,
     "isActivelyTrading": true
   },
