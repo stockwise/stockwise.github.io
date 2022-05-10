@@ -40,17 +40,23 @@
                 <th>Sector</th>
                 <th>Industry</th>
                 <th>Price</th>
-                </tr>
+                <th>Rev 1 Qtr Ago</th>
+                <th>Rev 2 Qtr Ago</th>
+                <th>Rev 3 Qtr Ago</th>
+                <th>Rev 4 Qtr Ago</th>
+              </tr>
             </thead><tbody>
 
       
       <script>
             $(document).ready(function () {
-              $.getJSON("stocks.json",
+              $.getJSON("final.json",
                 function(data) {
                   var record = "";
                   for (var i = 0; i < data.length; i++) {
-                     record += "<tr class='entry'><td>" + data[i].symbol + "</td><td>" + data[i].companyName + "</td><td>" + data[i].exchangeShortName + "</td><td>" + data[i].marketCap + "</td><td>" + data[i].sector + "</td><td>" + data[i].industry+ "</td><td>" + data[i].price + "</td></tr>"
+                     record += "<tr class='entry'><td>" + data[i].symbol + "</td><td>" + data[i].companyName + "</td><td>" + data[i].exchangeShortName + 
+                         "</td><td>" + data[i].marketCap + "</td><td>" + data[i].sector + "</td><td>" + data[i].industry+ "</td><td>" + data[i].price + 
+                         "</td><td>" + data[i].rev1 + "</td><td>" + data[i].rev2 + "</td><td>" + data[i].rev3 + "</td><td>" + data[i].rev4 + "</td></tr>"
                    }
 //                  record += "<tr><td>data-set-1</td><td>url</td><td>" + data.url + "</td></tr>"
 //                  record += "<tr><td>data-set-1</td><td>host</td><td>" + data.headers["host"] + "</td></tr>"
