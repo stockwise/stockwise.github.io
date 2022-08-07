@@ -34,7 +34,7 @@
   {
     "symbol": "GOOG",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1536895483904,
+    "marketCap": 1536103284736,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.0996,
@@ -50,7 +50,7 @@
   {
     "symbol": "GOOGL",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1536895221760,
+    "marketCap": 1535144886272,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.0996,
@@ -112,25 +112,9 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "BRK-A",
-    "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 645272371200,
-    "sector": "Financial Services",
-    "industry": "Insurance—Diversified",
-    "beta": 0.9149,
-    "price": 439529,
-    "lastAnnualDividend": 0,
-    "volume": 2261,
-    "exchange": "New York Stock Exchange",
-    "exchangeShortName": "NYSE",
-    "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "BRK-B",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 645270274048,
+    "marketCap": 649525723136,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.9149,
@@ -144,9 +128,25 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "BRK-A",
+    "companyName": "Berkshire Hathaway Inc.",
+    "marketCap": 647531593728,
+    "sector": "Financial Services",
+    "industry": "Insurance—Diversified",
+    "beta": 0.9149,
+    "price": 439529,
+    "lastAnnualDividend": 0,
+    "volume": 2261,
+    "exchange": "New York Stock Exchange",
+    "exchangeShortName": "NYSE",
+    "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "UNH",
     "companyName": "UnitedHealth Group Incorporated",
-    "marketCap": 501978333184,
+    "marketCap": 508467544064,
     "sector": "Healthcare",
     "industry": "Healthcare Plans",
     "beta": 0.7744,
