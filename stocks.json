@@ -7,7 +7,7 @@
     "industry": "Consumer Electronics",
     "beta": 1.1946,
     "price": 165.35,
-    "lastAnnualDividend": 1.12,
+    "lastAnnualDividend": 0.9,
     "volume": 86332325,
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
@@ -114,7 +114,7 @@
   {
     "symbol": "BRK-A",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 645272502272,
+    "marketCap": 645272371200,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.9149,
