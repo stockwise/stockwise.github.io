@@ -40,7 +40,7 @@
     "beta": 1.0785,
     "price": 111.78,
     "lastAnnualDividend": 0,
-    "volume": 26109508,
+    "volume": 26110129,
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
     "country": "US",
@@ -146,7 +146,7 @@
   {
     "symbol": "BRK-A",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 628864516096,
+    "marketCap": 628863860736,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.9244,
