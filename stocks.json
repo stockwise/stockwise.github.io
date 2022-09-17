@@ -2,7 +2,7 @@
   {
     "symbol": "AAPL",
     "companyName": "Apple Inc.",
-    "marketCap": 2468586455040,
+    "marketCap": 2421869510656,
     "sector": "Technology",
     "industry": "Consumer Electronics",
     "beta": 1.2302,
@@ -18,7 +18,7 @@
   {
     "symbol": "MSFT",
     "companyName": "Microsoft Corporation",
-    "marketCap": 1830016385024,
+    "marketCap": 1825244053504,
     "sector": "Technology",
     "industry": "Software—Infrastructure",
     "beta": 0.9429,
@@ -34,7 +34,7 @@
   {
     "symbol": "GOOGL",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1373510828032,
+    "marketCap": 1346042724352,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.0785,
@@ -50,7 +50,7 @@
   {
     "symbol": "GOOG",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1371408302080,
+    "marketCap": 1346039709696,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.0785,
@@ -82,7 +82,7 @@
   {
     "symbol": "TSLA",
     "companyName": "Tesla, Inc.",
-    "marketCap": 946970755072,
+    "marketCap": 950538141696,
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
     "beta": 2.1761,
