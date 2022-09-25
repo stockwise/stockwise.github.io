@@ -34,7 +34,7 @@
   {
     "symbol": "GOOG",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1290618273792,
+    "marketCap": 1290657857536,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.0891,
@@ -50,7 +50,7 @@
   {
     "symbol": "GOOGL",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1290610802688,
+    "marketCap": 1290581180416,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.0891,
@@ -130,7 +130,7 @@
   {
     "symbol": "BRK-A",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 591062171648,
+    "marketCap": 591951691776,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.9365,
@@ -146,7 +146,7 @@
   {
     "symbol": "BRK-B",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 591062106112,
+    "marketCap": 590446264320,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.9365,
