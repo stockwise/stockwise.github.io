@@ -34,7 +34,7 @@
   {
     "symbol": "GOOG",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1366220079104,
+    "marketCap": 1365611511808,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.0995,
@@ -50,7 +50,7 @@
   {
     "symbol": "GOOGL",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1365062582272,
+    "marketCap": 1365605875712,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.0995,
@@ -114,7 +114,7 @@
   {
     "symbol": "TSLA",
     "companyName": "Tesla, Inc.",
-    "marketCap": 696930729984,
+    "marketCap": 702330961920,
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
     "beta": 2.1279,
