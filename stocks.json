@@ -40,7 +40,7 @@
     "beta": 1.0691,
     "price": 93.91,
     "lastAnnualDividend": 0,
-    "volume": 27192163,
+    "volume": 27167258,
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
     "country": "US",
@@ -114,7 +114,7 @@
   {
     "symbol": "BRK-A",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 673102757888,
+    "marketCap": 673389150208,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.8992,
@@ -130,7 +130,7 @@
   {
     "symbol": "BRK-B",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 673102430208,
+    "marketCap": 672903987200,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.8992,
