@@ -114,7 +114,7 @@
   {
     "symbol": "DHR-PB",
     "companyName": "Danaher Corporation",
-    "marketCap": 929146255289,
+    "marketCap": 929316019830,
     "sector": "Healthcare",
     "industry": "Diagnostics & Research",
     "beta": 0.795676,
@@ -162,7 +162,7 @@
   {
     "symbol": "BRK-A",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 671711519250,
+    "marketCap": 671379091650,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.883891,
@@ -178,7 +178,7 @@
   {
     "symbol": "BRK-B",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 671145372724,
+    "marketCap": 671376473831,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.883891,
@@ -213,7 +213,7 @@
     "marketCap": 580287120000,
     "sector": "Technology",
     "industry": "Semiconductors",
-    "beta": 0,
+    "beta": 1.790446,
     "price": 232.86,
     "lastAnnualDividend": 0.16,
     "volume": 58971591,
