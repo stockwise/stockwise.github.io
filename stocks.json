@@ -82,10 +82,10 @@
   {
     "symbol": "GOOGL",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1142361292731,
+    "marketCap": 1142798024650,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
-    "beta": 0,
+    "beta": 1.085774,
     "price": 89.13,
     "lastAnnualDividend": 0,
     "volume": 36585093,
