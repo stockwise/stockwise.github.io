@@ -48,22 +48,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "GOOG",
-    "companyName": "Alphabet Inc.",
-    "marketCap": 1310422539772,
-    "sector": "Communication Services",
-    "industry": "Internet Content & Information",
-    "beta": 1.090845,
-    "price": 102.46,
-    "lastAnnualDividend": 0,
-    "volume": 66024259,
-    "exchange": "NASDAQ Global Select",
-    "exchangeShortName": "NASDAQ",
-    "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "USB-PA",
     "companyName": "U.S. Bancorp PERP PFD SER A",
     "marketCap": 1309573250700,
@@ -76,6 +60,22 @@
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
     "country": null,
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "GOOG",
+    "companyName": "Alphabet Inc.",
+    "marketCap": 1307010400253,
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "beta": 1.090845,
+    "price": 102.46,
+    "lastAnnualDividend": 0,
+    "volume": 66024259,
+    "exchange": "NASDAQ Global Select",
+    "exchangeShortName": "NASDAQ",
+    "country": "US",
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -146,7 +146,7 @@
   {
     "symbol": "VTSAX",
     "companyName": "Vanguard Total Stock Market Index Fund",
-    "marketCap": 804483740785,
+    "marketCap": 804483760070,
     "sector": "",
     "industry": null,
     "beta": 0,
