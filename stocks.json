@@ -32,6 +32,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "  AAPL",
+    "companyName": "Apple Inc.",
+    "marketCap": 2520112168925,
+    "sector": null,
+    "industry": null,
+    "beta": null,
+    "price": 159.28,
+    "lastAnnualDividend": null,
+    "volume": 73938285,
+    "exchange": "NASDAQ Global Select",
+    "exchangeShortName": "NASDAQ",
+    "country": null,
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "MSFT",
     "companyName": "Microsoft Corporation",
     "marketCap": 2037963581522,
@@ -76,6 +92,22 @@
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
     "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "  GOOGL",
+    "companyName": "Alphabet Inc.",
+    "marketCap": 1348106584013,
+    "sector": null,
+    "industry": null,
+    "beta": null,
+    "price": 104.92,
+    "lastAnnualDividend": null,
+    "volume": 41219196,
+    "exchange": "NASDAQ Global Select",
+    "exchangeShortName": "NASDAQ",
+    "country": null,
     "isEtf": false,
     "isActivelyTrading": true
   },
@@ -144,6 +176,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "  VTSAX",
+    "companyName": "Vanguard Total Stock Market Index Fund",
+    "marketCap": 823198613413,
+    "sector": null,
+    "industry": null,
+    "beta": null,
+    "price": 97.21,
+    "lastAnnualDividend": null,
+    "volume": 0,
+    "exchange": "Nasdaq",
+    "exchangeShortName": "NASDAQ",
+    "country": null,
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "VTSAX",
     "companyName": "Vanguard Total Stock Market Index Fund",
     "marketCap": 823198592804,
@@ -162,7 +210,7 @@
   {
     "symbol": "BRK-A",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 688520165988,
+    "marketCap": 666586295624,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.881795,
@@ -178,7 +226,7 @@
   {
     "symbol": "BRK-B",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 666157661392,
+    "marketCap": 666048331604,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.881795,
