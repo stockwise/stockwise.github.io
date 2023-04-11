@@ -176,22 +176,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "NVDA",
-    "companyName": "NVIDIA Corporation",
-    "marketCap": 687268680000,
-    "sector": "Technology",
-    "industry": "Semiconductors",
-    "beta": 1.757278,
-    "price": 275.79,
-    "lastAnnualDividend": 0.16,
-    "volume": 37952299,
-    "exchange": "NASDAQ Global Select",
-    "exchangeShortName": "NASDAQ",
-    "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "BRK-A",
     "companyName": "Berkshire Hathaway Inc.",
     "marketCap": 685669205000,
@@ -203,6 +187,22 @@
     "volume": 7207,
     "exchange": "New York Stock Exchange",
     "exchangeShortName": "NYSE",
+    "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "NVDA",
+    "companyName": "NVIDIA Corporation",
+    "marketCap": 681201335301,
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "beta": 1.757278,
+    "price": 275.79,
+    "lastAnnualDividend": 0.16,
+    "volume": 37952299,
+    "exchange": "NASDAQ Global Select",
+    "exchangeShortName": "NASDAQ",
     "country": "US",
     "isEtf": false,
     "isActivelyTrading": true
@@ -226,7 +226,7 @@
   {
     "symbol": "META",
     "companyName": "Meta Platforms, Inc.",
-    "marketCap": 556769428189,
+    "marketCap": 556769411009,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.179936,
