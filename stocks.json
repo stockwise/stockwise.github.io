@@ -82,7 +82,7 @@
   {
     "symbol": "USB-PA",
     "companyName": "U.S. Bancorp PERP PFD SER A",
-    "marketCap": 1312931283866,
+    "marketCap": 1312931315146,
     "sector": "",
     "industry": null,
     "beta": 0,
@@ -98,7 +98,7 @@
   {
     "symbol": "AMZN",
     "companyName": "Amazon.com, Inc.",
-    "marketCap": 1050450732841,
+    "marketCap": 1051547566879,
     "sector": "Consumer Cyclical",
     "industry": "Internet Retail",
     "beta": 1.253595,
@@ -194,7 +194,7 @@
   {
     "symbol": "TSLA",
     "companyName": "Tesla, Inc.",
-    "marketCap": 585358517760,
+    "marketCap": 586322341120,
     "sector": "Consumer Cyclical",
     "industry": "Auto Manufacturers",
     "beta": 2.070501,
@@ -210,7 +210,7 @@
   {
     "symbol": "META",
     "companyName": "Meta Platforms, Inc.",
-    "marketCap": 574243839802,
+    "marketCap": 574243864387,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.179936,
