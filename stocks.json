@@ -112,6 +112,22 @@
     "isActivelyTrading": true
   },
   {
+    "symbol": "DHR-PB",
+    "companyName": "Danaher Corporation",
+    "marketCap": 916755927207,
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research",
+    "beta": 0.802174,
+    "price": 1261.26,
+    "lastAnnualDividend": 50,
+    "volume": 127328,
+    "exchange": "New York Stock Exchange",
+    "exchangeShortName": "NYSE",
+    "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
     "symbol": "VITSX",
     "companyName": "Vanguard Total Stock Market Index Fund",
     "marketCap": 845385403290,
