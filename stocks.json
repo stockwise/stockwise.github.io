@@ -1,21 +1,5 @@
 [
   {
-    "symbol": "BAC-PL",
-    "companyName": "Bank of America Corporation",
-    "marketCap": 9485744748149,
-    "sector": "Financial Services",
-    "industry": "Banks—Diversified",
-    "beta": 1.41424,
-    "price": 1177.07,
-    "lastAnnualDividend": 72.5,
-    "volume": 3842,
-    "exchange": "New York Stock Exchange",
-    "exchangeShortName": "NYSE",
-    "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "AAPL",
     "companyName": "Apple Inc.",
     "marketCap": 2633871655711,
