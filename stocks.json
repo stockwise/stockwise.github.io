@@ -48,22 +48,6 @@
     "isActivelyTrading": true
   },
   {
-    "symbol": "GOOGL",
-    "companyName": "Alphabet Inc.",
-    "marketCap": 1388771707089,
-    "sector": "Communication Services",
-    "industry": "Internet Content & Information",
-    "beta": 1.099653,
-    "price": 107.59,
-    "lastAnnualDividend": 0,
-    "volume": 49594058,
-    "exchange": "NASDAQ Global Select",
-    "exchangeShortName": "NASDAQ",
-    "country": "US",
-    "isEtf": false,
-    "isActivelyTrading": true
-  },
-  {
     "symbol": "GOOG",
     "companyName": "Alphabet Inc.",
     "marketCap": 1370739684672,
@@ -73,6 +57,22 @@
     "price": 108.37,
     "lastAnnualDividend": 0,
     "volume": 35987746,
+    "exchange": "NASDAQ Global Select",
+    "exchangeShortName": "NASDAQ",
+    "country": "US",
+    "isEtf": false,
+    "isActivelyTrading": true
+  },
+  {
+    "symbol": "GOOGL",
+    "companyName": "Alphabet Inc.",
+    "marketCap": 1370653589499,
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "beta": 1.099653,
+    "price": 107.59,
+    "lastAnnualDividend": 0,
+    "volume": 49594058,
     "exchange": "NASDAQ Global Select",
     "exchangeShortName": "NASDAQ",
     "country": "US",
@@ -130,7 +130,7 @@
   {
     "symbol": "VITSX",
     "companyName": "Vanguard Total Stock Market Index Fund",
-    "marketCap": 843353033733,
+    "marketCap": 843352965116,
     "sector": "",
     "industry": null,
     "beta": 0,
@@ -210,7 +210,7 @@
   {
     "symbol": "META",
     "companyName": "Meta Platforms, Inc.",
-    "marketCap": 611706010077,
+    "marketCap": 611992338377,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.194463,
