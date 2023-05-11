@@ -21,7 +21,7 @@
     "marketCap": 2729794600699,
     "sector": "Technology",
     "industry": "Consumer Electronics",
-    "beta": 1.296885,
+    "beta": 1.296622,
     "price": 173.555,
     "lastAnnualDividend": 0.96,
     "volume": 51999273,
@@ -66,7 +66,7 @@
   {
     "symbol": "GOOGL",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1421750462947,
+    "marketCap": 1421750566874,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.100633,
@@ -114,7 +114,7 @@
   {
     "symbol": "VITSX",
     "companyName": "Vanguard Total Stock Market Index Fund",
-    "marketCap": 845046668199,
+    "marketCap": 845046677479,
     "sector": "",
     "industry": null,
     "beta": 0,
@@ -130,7 +130,7 @@
   {
     "symbol": "VTSAX",
     "companyName": "Vanguard Total Stock Market Index Fund",
-    "marketCap": 844877323252,
+    "marketCap": 844877266882,
     "sector": "",
     "industry": null,
     "beta": 0,
