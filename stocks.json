@@ -50,7 +50,7 @@
   {
     "symbol": "GOOG",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1410420604678,
+    "marketCap": 1410420572046,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.100633,
@@ -66,7 +66,7 @@
   {
     "symbol": "GOOGL",
     "companyName": "Alphabet Inc.",
-    "marketCap": 1409899001381,
+    "marketCap": 1409899167641,
     "sector": "Communication Services",
     "industry": "Internet Content & Information",
     "beta": 1.100633,
@@ -82,7 +82,7 @@
   {
     "symbol": "USB-PA",
     "companyName": "U.S. Bancorp PERP PFD SER A",
-    "marketCap": 1190368470635,
+    "marketCap": 1190368509630,
     "sector": "",
     "industry": null,
     "beta": 0,
@@ -178,7 +178,7 @@
   {
     "symbol": "BRK-B",
     "companyName": "Berkshire Hathaway Inc.",
-    "marketCap": 709103354247,
+    "marketCap": 709103386600,
     "sector": "Financial Services",
     "industry": "Insurance—Diversified",
     "beta": 0.873356,
